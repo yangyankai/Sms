@@ -1,0 +1,12 @@
+/*
+ * Copyright (c) 2015-2015 by Shanghai shootbox Information Technology Co., Ltd.
+ * Create: 2015/9/10 10:56:29
+ * Project: T
+ * File: settings.gradle
+ * Class: settings.gradle
+ * Module: T
+ * Author: yangyankai
+ * Version: 1.0
+ */
+
+include ':app', ':smssdk'

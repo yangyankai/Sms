@@ -1,0 +1,17 @@
+<!--
+  ~ Copyright (c) 2015-2015 by Shanghai shootbox Information Technology Co., Ltd.
+  ~ Create: 2015/9/10 10:56:29
+  ~ Project: T
+  ~ File: dimens.xml
+  ~ Class: dimens.xml
+  ~ Module: T
+  ~ Author: yangyankai
+  ~ Version: 1.0
+  -->
+
+<resources>
+    <!-- Example customization of dimensions originally defined in res/values/dimens.xml
+         (such as screen margins) for screens with more than 820dp of available width. This
+         would include 7" and 10" devices in landscape (~960dp and ~1280dp respectively). -->
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+</resources>

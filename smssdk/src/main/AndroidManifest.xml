@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015-2015 by Shanghai shootbox Information Technology Co., Ltd.
+  ~ Create: 2015/9/10 10:56:29
+  ~ Project: T
+  ~ File: AndroidManifest.xml
+  ~ Class: AndroidManifest.xml
+  ~ Module: T
+  ~ Author: yangyankai
+  ~ Version: 1.0
+  -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.smssdk" >
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name" >
+
+    </application>
+
+</manifest>

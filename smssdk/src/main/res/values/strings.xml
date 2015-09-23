@@ -1,0 +1,17 @@
+<!--
+  ~ Copyright (c) 2015-2015 by Shanghai shootbox Information Technology Co., Ltd.
+  ~ Create: 2015/9/10 10:56:29
+  ~ Project: T
+  ~ File: strings.xml
+  ~ Class: strings.xml
+  ~ Module: T
+  ~ Author: yangyankai
+  ~ Version: 1.0
+  -->
+
+<resources>
+    <string name="app_name">Smssdk</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
